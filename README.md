@@ -1,5 +1,7 @@
 # ASCII Text Video Converter
 
+# Please credit my youtube channel if you are using this
+
 This script converts a video file into an ASCII text video.
 
 ## Prerequisites
